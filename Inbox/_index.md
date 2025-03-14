@@ -6,5 +6,5 @@ title: Inbox
 
 # Introdução
 
-Esse é o gabinete de anotações de Thiago Luiz Silva
+Esse é o gabinete de anotações de Thiago Luiz Silva - Primavera 2025
 
