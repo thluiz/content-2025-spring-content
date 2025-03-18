@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "0157506c57e53464",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d6dcbd095454609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab88dc2cea98d5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/03/'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c09a26875081b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb80669bda1a4a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3f4dadcbbcd18a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7404aa9456b33296",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b8ae04c397431a6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50cc5f19656f4097",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c63b95f69dae5ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "add08db72bb7db9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025/03/'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too"
+            }
+          },
+          {
+            "id": "542b563ab90c2d84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025/03/'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too"
+            }
+          },
+          {
+            "id": "e25d97fcefc977a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e6c45b0deee0d470",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025/03/'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 'Captain America' star Anthony Mackie 'We're lying to our kids' when we say success comes just from hard work—luck is key, too"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab88dc2cea98d5ea",
+  "lastOpenFiles": []
+}
