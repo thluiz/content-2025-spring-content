@@ -2,10 +2,10 @@
 created: 2025-04-09T13:32:02 (UTC -03:00)
 tags: [video,sharing,camera phone,video phone,free,upload]
 source: https://www.youtube.com/watch?v=9-cz_Tmz738
-author: @ocesarhilario
+author: ocesarhilario
 ---
 
-# (74) Comprei um Mac Mini para Controlar Minha Empresa usando IA! - YouTube
+# Comprei um Mac Mini para Controlar Minha Empresa usando IA! - YouTube
 
 > ## Excerpt
 > Meu objetivo é ter um servidor com agente de IA local, será da certo ?Minha Stack:PythonSlackStreamlitNifiNotionConfig Mac Mini:Chip M4 da AppleCPU de 10 núc...
