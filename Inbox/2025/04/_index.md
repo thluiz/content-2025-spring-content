@@ -1,7 +1,7 @@
 ---
 title: 2025-04
-bookCollapseSection: false
-bookToc: false
+bookCollapseSection: true
+bookToc: true
 ---
 
 # 2025-04
